@@ -3,7 +3,5 @@
     "repo_name": "{{ cookiecutter.projectName.lower().replace(' ', '_') }}",
     "author_name": "Your name (or your organization/company/team)",
     "description": "A short description of the project.",
-    "python_interpreter": ["python3", "python"],
-    "owner": "owner",
-    "dependsOn": "dependsOn"
+    "python_interpreter": ["python3", "python"]
 }
